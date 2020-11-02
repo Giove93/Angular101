@@ -1,0 +1,11 @@
+:host{
+    display: block;
+}
+
+.meterial-icons-mod{
+    display: inline-block;
+    font-size: inherit;
+    
+    max-width: 16px !important;
+    max-height: 16px !important;
+}
